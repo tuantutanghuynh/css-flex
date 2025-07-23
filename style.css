@@ -46,3 +46,8 @@ body{
     background-color: #5e936c;
     color: #e8ffd7;
     transform: scale(1.05);}
+@media(max-width: 768px){
+    .plant-card{
+        flex:1 1 100%;
+    }
+}
